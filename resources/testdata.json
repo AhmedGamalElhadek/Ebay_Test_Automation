@@ -1,0 +1,6 @@
+{
+  "confirmHomePageMessage": "You have not landed on main page",
+  "searchText": "mazda mx-5",
+  "searchContain": "mx-5",
+  "searchContainErrorMessage": "Not all the result contain Mx-5 keyword"
+}
